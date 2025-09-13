@@ -2,9 +2,9 @@
 
 int main(){
 
-    #define BISPO_MOV 5
-    #define TORRE_MOV 5
-    #define RAINHA_MOV 8
+    int BISPO_MOV = 5;
+    int TORRE_MOV = 5;
+    int RAINHA_MOV = 8;
 
     printf("=== Dessafio de Xadrez ===\n\n");
 
